@@ -22,6 +22,8 @@ https://note.com/shift_tech/n/n8bbe1c05ba0b
 
 https://zenn.dev/fjsh/articles/19c5e794a63869
 
+https://qiita.com/izanari/items/05f601f12ff5b0f32fd7
+
 # VS Code Extension
 
 - dbaeumer.vscode-eslint
